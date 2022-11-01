@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: apiProject
     source:
-      location: <pathToApiProjectInSourceCodeManagement>
+      location: 'https://github.com/yvestolod/zcee-oas3-db2api.git'
       type: github
       branch: main
 components:
